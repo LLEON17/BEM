@@ -1,0 +1,10 @@
+@import url(Componentes/kitchen.css);
+@import url(Componentes/bedroom.css);
+@import url(Componentes/livingroom.css);
+
+
+.house{
+    margin: 10px 10px;
+    padding: 10px;
+    background-color: rgb(236, 158, 226);
+}
